@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProjectoEtapa2BetaApplication<projecto_etapa2_beta>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.projecto_2.projecto_etapa2_beta.ProjectoEtapa2BetaApplication",
+            "projectName": "projecto_etapa2_beta",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
